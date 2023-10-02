@@ -1,0 +1,7 @@
+displayThisText(typeof undeclaredVariable)
+displayThisText(typeof true)
+displayThisText(typeof 42)
+displayThisText(typeof 1565n)
+displayThisText(typeof Symbol())
+displayThisText(typeof new Date)
+displayThisText(typeof function(){})
