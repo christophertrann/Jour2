@@ -1,4 +1,4 @@
-displayThisText(typeof undeclaredVariable)
++displayThisText(typeof undeclaredVariable)
 displayThisText(typeof true)
 displayThisText(typeof 42)
 displayThisText(typeof 1565n)
